@@ -38,6 +38,16 @@ body {
 }
 
 /* Contacto */
+.circus {
+  background-color: #a4a4a4;
+  opacity: 1;
+  background-image:  linear-gradient(30deg, #E63312 12%, transparent 12.5%, transparent 87%, #E63312 87.5%, #E63312), linear-gradient(150deg, #E63312 12%, transparent 12.5%, transparent 87%, #E63312 87.5%, #E63312), linear-gradient(30deg, #E63312 12%, transparent 12.5%, transparent 87%, #E63312 87.5%, #E63312), linear-gradient(150deg, #E63312 12%, transparent 12.5%, transparent 87%, #E63312 87.5%, #E63312), linear-gradient(60deg, #E6331277 25%, transparent 25.5%, transparent 75%, #E6331277 75%, #E6331277), linear-gradient(60deg, #E6331277 25%, transparent 25.5%, transparent 75%, #E6331277 75%, #E6331277);
+  background-size: 66px 116px;
+  background-position: 0 0, 0 0, 33px 58px, 33px 58px, 0 0, 33px 58px;
+
+  color: black;
+}
+
 
 #Contacto form label {
   font-weight: 700;
